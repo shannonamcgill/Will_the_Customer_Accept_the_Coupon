@@ -13,3 +13,5 @@ Following the box plot distribution, I created a histogram of the of temperature
 
 ![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/Histogram_of_Temperature.png?raw=true)
 
+I then did a deeper analysis of what seems to influence a customer to accept a coupon for a bar. After looking at various attributes, my interpretation of the data leads me to believe that the biggest influence on accepting the bar coupon was how often the customer drank alcohol. This is displayed with the following to bar charts. 
+
