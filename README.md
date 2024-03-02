@@ -18,13 +18,20 @@ I then did a deeper analysis of what seems to influence a customer to accept a c
 ![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/Coupon_Acceptance_Rate_for_Number_of_Bar_Visits.png?raw=true)
 
 This chart compares the acceptance rate between drivers who go to a bar more than once a month and are over 25 to all others. 
-![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/q4_Bar_Customer_Segmentation_for_Number_of_Bar_Visits.png)?raw=true)
+![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/q4_Bar_Customer_Segmentation_for_Number_of_Bar_Visits.png?raw=true)
 
 Using the same process I compared the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry. 
 
 ![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/q5_Bar_Customer_Segmentation2.png?raw=true)
 
+I love coffee and visiting new coffee shops both locally and while traveling. For my independent study, I chose to look at the influences on someone’s choice to accept a coupon for coffee shops.
+I followed the same process for cleaning and the initial data review as I did with the bar data. But I also chose to include seaborn's subplot functionality. This allowed me to plot the value counts of several of the coffee dataset's attributes. Choosing a few that I thought would have the most influence on someone's acceptance, I created the following charts. 
 
+![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/q7_Yes_Factor_1.png?raw=true)
 
 ![alt text](?raw=true)
 
+
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
