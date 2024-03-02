@@ -5,7 +5,7 @@ https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/
 
 My initial steps were to review the data in order to understand better what columns were present and identify any required cleanup. From this step, I removed one of the columns as it was over 99% empty. 
 
-I then reviewed the coupon distribution amoungsts different reasturant types. This can nicely be displayed using seaborns boxplot as demonstrated below.
+I then reviewed the coupon distribution amoungsts different reasturant types. This can nicely be displayed using seaborn's boxplot as demonstrated below.
 
 ![alt text](https://github.com/shannonamcgill/Will_the_Customer_Accept_the_Coupon/blob/main/assignment_5_1_starter/images/Distributed_Number_of_Coupons_Barchart.png?raw=true)
 
